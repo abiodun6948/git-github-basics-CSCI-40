@@ -1,20 +1,11 @@
 # Contributing Guidelines
 
-Follow these steps to contribute:
+To contribute using **Visual Studio Code** or **Visual Studio**:
 
-1. Create a new branch:
-   ```bash
-   git checkout -b your-name-feature
-   ```
-2. Add your changes:
-   ```bash
-   git add .
-   git commit -m "Added my updates"
-   ```
-3. Push your branch:
-   ```bash
-   git push origin your-name-feature
-   ```
-4. Open a pull request on GitHub.
+1. Open the Source Control panel (Ctrl+Shift+G in VS Code).
+2. Stage your changes (click the + icon beside modified files).
+3. Write a clear commit message.
+4. Click the ✓ icon to commit.
+5. Click the "Sync Changes" or "Push" button to push to GitHub.
 
-Please make sure your commits have clear, meaningful messages.
+Please use meaningful commit messages and follow your group’s workflow.
